@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Raw data — download from Zenodo, do not commit
+lemis_2000_2014_cleaned.csv
+*.zip
+
+# Intermediates
+lemis_*_rows.csv
+lemis_model_sample.csv
+lemis_train_shipments.csv
+lemis_holdout_shipments.csv
