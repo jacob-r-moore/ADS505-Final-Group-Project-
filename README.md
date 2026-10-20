@@ -2,6 +2,8 @@
 
 ADS-505 Applied Data Science for Business — Team Project
 
+Team Members: Nandini Kasibhotla, Imelda Mendoza, Jacob Moore
+
 ## Business problem
 
 The US Fish & Wildlife Service inspects a small fraction of the wildlife and
